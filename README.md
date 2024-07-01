@@ -1,4 +1,4 @@
-## Fala galera! Me chamo Victor Bahiy
+### Fala galera! Me chamo Victor Bahiy
 
 E quem sou eu?
 - 👋 Sou um estudante autodidata apaixonado por tecnologia;
