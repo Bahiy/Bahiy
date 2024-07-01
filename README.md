@@ -18,6 +18,10 @@ E quem sou eu?
   <a href="https://linkedin.com/in/victor-bahiy">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://drive.google.com/file/d/1EE9cG4vjokGxkou_WDieB_DhsZnnI8tA/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
 
   <a href="https://api.whatsapp.com/send?phone=5511918759074&text=Ol%C3%A1!%20Tudo%20bem%3F%20Peguei%20seu%20contato%20no%20seu%20GitHub">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
