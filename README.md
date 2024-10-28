@@ -18,7 +18,7 @@ Entre em contato comigo em qualquer uma das plataformas abaixo:
   <a href="https://linkedin.com/in/victor-bahiy">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://drive.google.com/file/d/1EE9cG4vjokGxkou_WDieB_DhsZnnI8tA/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1u42hp5FOxHIAofAMpzH80FYj70GQ6KbF/view?usp=sharing">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511918758074&text=Ol%C3%A1!%20Tudo%20bem%3F%20Peguei%20seu%20contato%20no%20seu%20GitHub">
