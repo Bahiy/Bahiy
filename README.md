@@ -10,7 +10,7 @@
 
 - 💡 Curioso por natureza, comecei minha jornada de forma autodidata e venho me aprofundando diariamente no universo do desenvolvimento.
 - 🔥 Tenho foco em **desenvolvimento web**, **automação de processos** e **soluções escaláveis**.
-- 🧠 Atualmente estudando com profundidade **Vue.js** e **Firebase**, com interesse constante por novas tecnologias e boas práticas.
+- 🧠 Atualmente estudando com profundidade **TypeScript** e **Node**, com interesse constante por novas tecnologias e boas práticas.
 - 💼 Busco sempre escrever código limpo, seguro e de fácil manutenção.
 
 ---
@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
 </p>
-
-> 🌱 Sempre aprendendo: gosto de explorar ferramentas como **TypeScript**, **Baileys (WhatsApp API)**, e **PM2** para processos automatizados.
 
 ---
 
